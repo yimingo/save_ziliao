@@ -1,3 +1,7 @@
+
+
+
+
 【可乐python说】
 个人博客的构建https://blog.csdn.net/python_coder11/article/details/109175889
 
@@ -6,10 +10,6 @@ https://www.forestry.io/
 https://pages.github.com/
 https://cn.wordpress.org/
 http://www.c945.com/classlist/collect6_default.html
-
-
-
-
 
 静态网页网站建站教程
 https://cloud.tencent.com/developer/article/1633599?from=information.detail.%E5%85%8D%E8%B4%B9%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99
